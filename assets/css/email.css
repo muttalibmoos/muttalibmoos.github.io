@@ -11,13 +11,7 @@ body {
     line-height: 1.25;
 }
 
-img {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 25px;
-    padding-right: 25px;
-    border-radius: 50%;
-}
+
 
 .md-form {
     width: 100%;
